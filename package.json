@@ -1,0 +1,16 @@
+{
+  "title": "9gag Post Bookmarker",
+  "name": "firefox9gagextension",
+  "version": "1.0.34",
+  "description": "Bookmarks 9gag links",
+  "main": "index.js",
+  "author": "danb",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

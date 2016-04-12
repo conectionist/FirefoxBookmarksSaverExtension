@@ -1,2 +1,2 @@
-# FirefoxBookmarksSaverExtension
-A Firefox extension that sends bookmarks/links with tags to a bookmarks server
+#9gag Post Bookmarker
+Bookmarks 9gag links
